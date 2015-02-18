@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS401: Management Leadership"
+course_description: "A detailed study on effective management and leadership techniques that analyzes the distinction between leadership and management and provides an introduction to leadership theory."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Change Management and Decision-Making** <span id="3"></span> 
 *The most difficult task for a manager is implementing changes without
 disrupting the whole business.  Changes to the normal business operation

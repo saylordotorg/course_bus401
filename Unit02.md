@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS401: Management Leadership"
+course_description: "A detailed study on effective management and leadership techniques that analyzes the distinction between leadership and management and provides an introduction to leadership theory."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Leadership Theory** <span id="2"></span> 
 *People have studied leadership since ancient times, and theories of
 leadership have been around for centuries (Plato, Sun Tzu, Machiavelli,

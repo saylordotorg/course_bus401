@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS401: Management Leadership"
+course_description: "A detailed study on effective management and leadership techniques that analyzes the distinction between leadership and management and provides an introduction to leadership theory."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "BUS401: Management Leadership"
 ---------------------------------------------------
 

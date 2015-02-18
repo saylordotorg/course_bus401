@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS401: Management Leadership"
+course_description: "A detailed study on effective management and leadership techniques that analyzes the distinction between leadership and management and provides an introduction to leadership theory."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Introduction** <span id="1"></span> 
 *What are management and leadership?  What is the purpose of studying
 how to lead a team?  Aren’t all leaders born and not made?  If that is

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS401: Management Leadership"
+course_description: "A detailed study on effective management and leadership techniques that analyzes the distinction between leadership and management and provides an introduction to leadership theory."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Leading Without Formal Authority** <span id="4"></span> 
 *While many students of this course will go on to manage teams,
 organizations, and companies, everyone will have opportunities to lead

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS401: Management Leadership"
+course_description: "A detailed study on effective management and leadership techniques that analyzes the distinction between leadership and management and provides an introduction to leadership theory."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Managing Groups and Teams** <span id="5"></span> 
 *Whether your power base is legitimate or otherwise, you may find
 yourself potentially in a leadership position within a group or team. 
